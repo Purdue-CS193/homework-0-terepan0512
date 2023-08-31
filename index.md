@@ -1,4 +1,4 @@
-# < Sofia >'s First CS193 Homework
+# Sofia's First CS193 Homework
 
 
 ## My favourite things about CS193
