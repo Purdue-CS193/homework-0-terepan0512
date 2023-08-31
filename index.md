@@ -8,4 +8,7 @@
 
 
 - Nice instructors
-  - They are patient.
+  - They are patient and helpful.
+
+- Interesting quizzes
+  - I enjoyed my time in class.
