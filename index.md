@@ -1,4 +1,4 @@
-# Sofia's First CS193 Homework
+# Zehui Su's First CS193 Homework
 
 
 ## My favourite things about CS193
